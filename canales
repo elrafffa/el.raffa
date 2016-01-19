@@ -1,0 +1,967 @@
+#EXTM3U
+
+#Canales de TV y Radios online
+#cambios: elpi.co/iptv/changelog.txt
+#playlist: elpi.co/playlist
+#logos de canales: elpi.co/iptv/logos/
+#ultima actualizacion: 05/11/2015 20:44
+
+#EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]actualizado 05/11/2015[/COLOR] -
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="Chile.png" group-title="Canales Chilenos", -[COLOR red]Canales Chilenos[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="lared.png" group-title="Canales Chilenos", La Red (HD)
+http://movilstream.digitalproserver.com/redtv/redtvvivo/redtv.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="ucv.png" group-title="Canales Chilenos", UCV (HD)
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="tvn.jpg" group-title="Canales Chilenos", TVN (HD)
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="mega.png" group-title="Canales Chilenos", MEGA (HD)
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="chv.png" group-title="Canales Chilenos", CHV (432p)
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+
+#EXTINF:-1, tvg-logo="c13.png" group-title="Canales Chilenos", Canal 13 (540p)
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+
+#EXTINF:-1, tvg-logo="13cn.jpg" group-title="Canales Chilenos", 13C
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="tvchile.png" group-title="Canales Chilenos", TVN Señal Int. (TV Chile)
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", LIV TV (HD)
+http://cdn.ztreaming.com/tustreaming/live2/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="cdo.png" group-title="Canales Chilenos", CDO HD (480p)
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", Camara de Diputados
+rtsp://origin.camara.ztreaming.com/origincamara8/streamcam8.sdp
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", Teletrak
+http://movilstream.digitalproserver.com/sporting/sportingvivo/livestream1/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", Agro TV (HD)
+http://v2movil.tustreaming.cl/tustreaming/live4/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", Poder Judicial TV (leer changelog)
+http://cdn.ztreaming.com/eltelon/ngrp:live_all/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="Chile.png" group-title="Canales AAA", -[COLOR red]Canales AAA (Cable)[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",FOX
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",SONY
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",WARNER_HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",UNIVERSAL_HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",FX_HD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",AE
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",AXN
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",TRUTV_HD
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",COMEDY_CENTRAL
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",UNIVISION
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",AZTECA_CORAZON
+http://200.76.77.237/LIVE/H01/CANAL250/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",FOX
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",BBC
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",E
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",SYFY
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",FX
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",ID
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",TNT_SERIES
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",GOURMET
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",GARAGE_TV
+http://200.76.77.237/LIVE/H01/CANAL269/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",GLITZ
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",FOX_LIFE
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",DISTRITO_COMEDIA
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",TBS
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",CASA
+http://200.76.77.237/LIVE/H01/CANAL274/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",TLNOVELAS
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",DISCOVERY_KIDS
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",CBEEBIES
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",DISNEY_JR
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",NICK_JR
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",DISNEY_CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",NICKTOONS
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",NICK_HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",NICK
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",CARTOON_NETWORK
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",DISNEY_XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",BOOMERANG
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",TOONCAST
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",DISC_THEATER
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",TU_HISTORY
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",NATGEO_WILD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",DISC_WORLD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",DISCOVERY_CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",ANIMAL_PLANET
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",H_AND_H
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",NATGEO_CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",LIFETIME
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",DISC_SCIENCE
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",DISC_CIVILZATION
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",TURBO
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",WOBI
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",FOX1_HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",FOX_ACTION_HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",FOX_MOVIES_HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",FOX_CINEMA
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",FOX_CLASSICS
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",CINECANAL+
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",TNT_HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",GOLDEN_HD
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",FILM_ZONE
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",DEPELICULA_HD
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",AMC
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",SPACE
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",FOX_CINEMA
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",FOX_FAMILY
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",FOX_CLASSICS
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",CINECANAL
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",CINEMAX
+http://200.76.77.237/LIVE/H01/CANAL481/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",TNT
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",EDGE
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",AMC
+http://200.76.77.237/LIVE/H01/CANAL490/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",SPACE
+http://200.76.77.237/LIVE/H01/CANAL491/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",STUDIO
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",iSAT
+http://200.76.77.237/LIVE/H01/CANAL495/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",TMC
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",ESPN_HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",ESPN_3
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",FOXSPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",FOXSPORTS_2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",PX
+http://200.76.77.237/LIVE/H01/CANAL528/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",ESPN_2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",AYM_SPORTS
+http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",MILENIO_TV
+http://200.76.77.237/LIVE/H01/CANAL603/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",BLOOMBERG
+http://200.76.77.237/LIVE/H01/CANAL610/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",MTVLIVE_HD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",TELEHIT_HD
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",VHI_HD
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",MTV_HITS
+http://200.76.77.237/LIVE/H01/CANAL727/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",1CLASSIC
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",RITMOSON
+http://200.76.77.237/LIVE/H01/CANAL731/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",BANDAMAX
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="" group-title="Canales AAA",ESPN_HD
+http://200.76.77.237/LIVE/H01/CANAL924/PROFILE02.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-logo="Chile.png" group-title="Canales Chilenos Regionales", -[COLOR red]Canales Chilenos Regionales[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos Regionales", Holvoet TV (Atacama)
+rtsp://movilstream.digitalproserver.com/holvoet/holvoetvivo/livestream3
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos Regionales", Canal Antofagasta
+http://movilstream.digitalproserver.com/atv/atvvivo/atv.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos Regionales", TVO (San Vicente)
+rtsp://movilstream.digitalproserver.com:443/tvo/tvovivo/livestream
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos Regionales", Sexta Vision (Rancagua)
+http://scl.streaminghd.cl/8028/8028/chunklist_w1777070189.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos Regionales", Canal 9 (Concepcion)
+rtsp://wow2.cl.digitalproserver.com:1935/c9/_definst_/mp4:livestream2
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos Regionales", TVU (Concepcion)
+rtsp://movilstream.digitalproserver.com/tvu/tvuvivo/livestream2
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos Regionales", Campus TV (U. de Talca)
+http://movilstream.digitalproserver.com/campustv/campustvvivo/campustv.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos Regionales", TeleCanal (Curico)
+http://movilstream.digitalproserver.com/tccr/tccrvivo/tccr.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos Regionales", Contivision
+http://movilstream.digitalproserver.com/contivisionhd/contivisionhdvivo/contivision.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos Regionales", El Pinguino (Punta Arenas)
+rtsp://streaming.elpinguino.com:1935/live/pinguinotv_160p
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos Regionales", TV Red (Punta Arenas)
+rtsp://69.164.193.177:1935/live/myStream
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos Regionales", Umag TV (Punta Arenas)
+rtsp://movil.ztreaming.com:1935/tser5/tser5.sdp
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos Regionales", Canal 2 (U.A. Temuco)
+http://movilstream.digitalproserver.com/uautonoma/uautonomavivo/uautonoma.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="Argentina.png" group-title="Canales Argentinos", -[COLOR red]Canales Argentinos[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", El Trece
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", TN
+rtsp://stream.tn.com.ar/live/tnhd1
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", C5N
+http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", Canal 26
+rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", America TV
+https://www.youtube.com/watch?v=Hytby2q7c0c
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", Canal 2 Misiones
+http://190.57.237.230/live/canal2.m3u8?ID=21.821294800974943
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", Tv Publica 
+http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/master.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", A24
+https://www.youtube.com/watch?v=4rmsEf46f7I
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", Canal 7 Mendoza
+https://www.youtube.com/watch?v=cdy85qJH_Ds
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", Canal 26 
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Argentinos", Canal 9 
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
+
+#EXTINF:-1, tvg-logo="Spain.png" group-title="Canales Españoles", -[COLOR red]Canales Españoles[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", Antena 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+
+#EXTINF:-1,tvg-logo="" group-title="Canales Españoles", Mega HD
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", La Sexta 
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", TVE 1 
+http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", TVE 2 
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", RTVE 24H 
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", Miami TV
+http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
+
+#EXTINF:-1, tvg-logo="Mexico.png" group-title="Canales Mexicanos", -[COLOR red]Canales Mexicanos[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="azteca.png" group-title="Canales Mexicanos", Azteca Noticias 
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+#EXTINF:-1, tvg-logo="azteca.png" group-title="Canales Mexicanos", Azteca 13 HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+
+#EXTINF:-1, tvg-logo="azteca.png" group-title="Canales Mexicanos", Azteca Deportes HD
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-b.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", TVMas HD
+rtmp://50.7.98.234/rtv/videortv
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Canal de las Estrellas
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-b.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Foro TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Telemundo
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+
+#EXTINF:-1, tvg-logo="azteca.png" group-title="Canales Mexicanos", Azteca 7
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="azteca.png" group-title="Canales Mexicanos", Multimedios Tv 
+http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
+
+#EXTINF:-1, tvg-logo="Peru.png" group-title="Canales Peruanos", -[COLOR red]Canales Peruanos[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Peruanos", America Television 
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Peruanos", Andina Tv 
+http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Peruanos", UCV Satelital
+http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Deportes", -[COLOR red]Canales Deportes[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Deportes", TyC Sports 
+http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/master.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Deportes", Bein Sports N
+http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/04.m3u8?
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Deportes", Win Sports 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Deportes", DXTV 
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", PAC 12 HD
+http://xrxs.net/video/live-p12netw-2328.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", -[COLOR red]Canales Misc/Estilo de Vida[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", Tec Tv
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", TaTeTi
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", Life Desing 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", Trendy Channel 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", VMas+ TV 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", Canal U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", NASA Space Station 1
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", NASA Space Station 2
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", -[COLOR red]Canales Misc/Noticias[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", NHK World
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", Arirang World
+http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", Arirang Korea
+http://korealive.arirang.co.kr/cdnlive-hls/arirangklive/_definst_/liveevent/tvkorea4.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", RT Español
+http://rt-a.akamaihd.net/ch_02@325606/720p.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", RT Global
+http://rt-a.akamaihd.net/ch_01@325605/720p.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", RT USA
+http://rt-a.akamaihd.net/ch_04@325608/720p.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", RT UK
+http://rt-a.akamaihd.net/ch_06@325610/720p.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", RT Documentary
+http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", DW Latino
+http://dwschiene3-i.akamaihd.net/hls/live/221760-b/dwschiene3/x6x/playlist6x.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", Aljazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", TRT HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/index_1500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Musica", -[COLOR red]Canales de Musica[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Musica",Vevo 1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Musica",Vevo 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Musica",Vevo 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Musica", Freaky Channel (radio carolina)
+http://movilstream.digitalproserver.com/freakytv//freakytv.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Musica", TheWildLife
+rtsp://46.249.213.93/broadcast/wildlife-tablet.3gp
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Musica", PopBeatTV
+rtsp://46.249.213.93/broadcast/popbeattv-tablet.3gp
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Musica", KISS TV
+http://kissfm.en-directo.com/iphone/index_multirate.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Musica", Amazing TV (pl)
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Musica", PortalFoxMix TV 
+http://mediacp.streamingchilenos.cl:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Musica", Mi Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Musica", Tigo Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Musica", Estudio TV
+rtmp://190.107.176.167:1935/live/estudio-tv
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Musica", Dream
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Musica", Best Music TV 
+rtmp://stream.smcloud.net/live2/best/best_720p
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Musica", Ibiza
+http://www.djing.com/tv/ibiza.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Musica", Film on TV
+http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Musica", SI TV
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Musica", Virgin TV
+http://wow01.105.net/live/virgin1/.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales de Musica", Heavy Metal TV
+http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", -[COLOR red]UOCT[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", UOCT (TVN)
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", -[COLOR red]UOCT: Zona Oriente[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Isidora Goyenechea-Vitacura
+http://200.75.19.171/uoct/55/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Tobalaba-Apoquindo
+http://200.75.19.171/uoct/30/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Providencia-Suecia
+http://200.75.19.171/uoct/35/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Providencia-Salvador
+http://200.75.19.171/uoct/19/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Macul-Grecia
+http://200.75.19.171/uoct/33/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Las Condes-La Dehesa
+http://200.75.19.171/uoct/31/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Bellavista-Arzobispo
+http://200.75.19.171/uoct/66/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Apoquindo-Las Condes
+http://200.75.19.171/uoct/29/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Vespucio-Camino del Inca
+http://200.75.19.171/uoct/54/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Vespucio-Presidente Riesco
+http://200.75.19.171/uoct/53/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Vespucio-Vitacura
+http://200.75.19.171/uoct/49/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Rotonda Perez Zujovic
+http://200.75.19.171/uoct/47/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Apoquindo-Manquehue
+http://200.75.19.171/uoct/43/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Andres Bello-Nueva Tajamar
+http://200.75.19.171/uoct/42/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Diagonal Oriente con Vespucio
+http://200.75.19.171/uoct/10/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Apoquindo – Camino el Alba
+http://200.75.19.171/uoct/13/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", El Cerro con Los Conquistadores
+http://200.75.19.171/uoct/2/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", -[COLOR red]UOCT: Zona Poniente[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", General Velazquez-Arica 
+http://200.75.19.171/uoct/21/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Alameda-Concon
+http://200.75.19.171/uoct/28/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Pajaritos-5 de abril
+http://200.75.19.171/uoct/51/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Alameda-Matucana
+http://200.75.19.171/uoct/38/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", General Bonilla con Teniente Cruz
+http://200.75.19.171/uoct/55/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", San Pablo con Neptuno
+http://200.75.19.171/uoct/3/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", -[COLOR red]UOCT: Zona Centro[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Viel-Matta
+http://200.75.19.171/uoct/34/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Manuel Rodriguez-Toesca
+http://200.75.19.171/uoct/32/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Lira- Diagonal Paraguay
+http://200.75.19.171/uoct/26/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Alameda-Brasil
+http://200.75.19.171/uoct/18/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Agustinas – San Martín
+http://200.75.19.171/uoct/27/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Alameda – Santa Rosa
+http://200.75.19.171/uoct/37/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Plaza Italia
+http://200.75.19.171/uoct/36/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Teatinos con Compañia
+http://200.75.19.171/uoct/11/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Alameda con Manuel Rodriquez
+http://200.75.19.171/uoct/12/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Vicuña Mackenna con Santa Isabel
+http://200.75.19.171/uoct/7/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Alameda con Nataniel Cox
+http://200.75.19.171/uoct/17/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", San Antonio con Agustinas
+http://200.75.19.171/uoct/14/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", -[COLOR red]UOCT: Zona Norte[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Alameda-Cumming
+http://200.75.19.171/uoct/16/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Ruta 5-Vespucio
+http://200.75.19.171/uoct/52/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Vespucio-Pedro Fontova
+http://200.75.19.171/uoct/50/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Vespucio-Recoleta
+http://200.75.19.171/uoct/48/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", -[COLOR red]UOCT: Zona Sur[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Departamental-Pedro Aguirre Cerda
+http://200.75.19.171/uoct/46/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Departamental-5 sur
+http://200.75.19.171/uoct/45/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Vespucio-Vicuña Mackenna
+http://200.75.19.171/uoct/41/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Vespucio-Gran Avenida
+http://200.75.19.171/uoct/40/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Vespucio-Santa Rosa
+http://200.75.19.171/uoct/39/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Vicuña Mackenna con Departamental
+http://200.75.19.171/uoct/8/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Unidad Operativa de Control de Transito", Isabel Riquelme con Bascuñán Guerrero
+http://200.75.19.171/uoct/6/playlist.m3u8
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", -[COLOR red]Radios Chilenas[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Imagina
+http://cast3.serverhost.cl:8764
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Concierto
+http://4323.live.streamtheworld.com/CONCIERTO_SC
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Futuro
+http://4323.live.streamtheworld.com/FUTURO_SC
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Duna
+rtmp://radio.cl.digitalproserver.com:443/duna/dunalive/dunav2.stream
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Cooperativa
+http://www.cooperativa.cl/noticias/prontus/player_streaming/chile.m3u
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radioactiva
+http://4323.live.streamtheworld.com/ACTIVA_SC
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Rock and Pop
+http://2493.live.streamtheworld.com/ROCK_AND_POP_SC
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", El Conquistador
+http://stream5.eltelon.com/el-conquistador-santiago.aac
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Universo
+rtmp://radio.cl.digitalproserver.com:443/universo/universolive/universo937.stream
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", FM Tiempo
+http://tunein.digitalproserver.com/fmtiempobb.mp3
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", FM Tiempo (Alt.)
+rtmp://190.196.10.198:443/fmtiempo/fmtiempolive playpath=fmtiempo.stream swfUrl=http://media.digitalproserver.com/dps_player.swf live=1 pageUrl=http://vivo.fmtiempo.cl/player2/
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", FMTiempo.cl Solo Musica
+rtmp://190.196.10.198:443/fmtiempo_musica/fmtiempo_musicalive<playpath>=fmtiempo_musica.stream swfUrl=http://media.digitalproserver.com/dps_player.swf live=1 pageUrl=http://vivo.fmtiempo.cl/musica/player/
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Carolina
+rtmp://radio.cl.digitalproserver.com:443/carolinafm/carolinafmlive/carolinafm.stream
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Bio-Bio la radio
+rtmp://radiocl.digitalproserver.com:443/biobiosantiago/biobiosantiagolive/biobiosantiago.stream
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Los 40 Principales
+http://4323.live.streamtheworld.com/LOS40_CHILE_SC
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", ADN
+http://4323.live.streamtheworld.com/ADN_SC
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Agricultura
+rtmp://radio2.cl.digitalproserver.com:443/agc/agclive/agc.stream
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Uno
+http://7299.live.streamtheworld.com/RADIO_UNO_SC
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Infinita
+rtmp://190.196.10.198:443/infinita/infinitalive playpath=infinita.stream swfUrl=http://media.digitalproserver.com/dps_player.swf live=1 pageUrl=http://www.infinita.cl/online.php
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Disco
+http://77.68.54.175:8012
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", La Mejor
+http://s3.chileservidores.cl:7702
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Maxima
+http://static.wixstatic.com/media/84770f_9c23f56a09a7f06d4dbf80ed6fdcd2e4.png_srz_p_85_82_75_22_0.50_1.20_0.00_png_srz
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Zero
+rtmp://radiocl.digitalproserver.com:443/zero/zerolive/ro.stream
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", FM Dos
+http://1071.live.streamtheworld.com/FMDOS_SC
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Candela
+rtmp://radio2.cl.digitalproserver.com:443/candela/candelalive/candela.stream
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", U. de Chile
+http://stream.radio.uchile.cl
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Portales (AM)
+http://186.103.134.238:9996
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Santiago (AM)
+rtmp://origin3-edge1.yourstreamlive.com:1935/live/yourstreamlive/ playpath=out_1559_4n35qo2z?platform=Computer swfUrl=http://www.yourstreamlive.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.radiosantiago.cl/senal.htm
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Oasis
+http://radio.cl.mediastre.am/oasis.aac
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Play
+http://radio.cl.mediastre.am/playfm.aac
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Horizonte
+http://radio.cl.mediastre.am/horizonte.aac
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Contacto
+http://184.107.188.34:8697
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Paula
+http://tunein.digitalproserver.com/paulafm.mp3
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", El Encuentro
+http://91.121.134.23:8001/elencuentro.mp3
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Dixi
+http://190.114.255.93:8070
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", El Bosque
+http://184.107.139.117:8766
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Pudahuel
+http://4323.live.streamtheworld.com/PUDAHUEL_SC
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Top
+http://radio.cl.mediastre.am/top.aac
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Romantica
+http://tunein.digitalproserver.com/romanticabb.mp3
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Efecto
+http://stream.radioefecto.com:8000/stream
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Digital FM
+http://mimix.mercurio.cl:8000/digitalfm
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Sol
+http://69.64.49.28:8000/
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Corazon
+http://7349.live.streamtheworld.com/CORAZON_SC
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Beethoven
+rtmp://radiocl.digitalproserver.com:443/beethovenfm/beethovenfmlive/beethovenfm.stream
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Carnaval
+rtmp://radio.cl.digitalproserver.com:443/carnaval/carnaval_vina/carnaval_vina.stream
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Colo-colo
+rtmp://sisteplay1.streamwowza.com:1935/radiohd playpath=74.222.7.27:21044 swfUrl=http://www.radiocolocolo.cl/um/aacplayer.swf?r=4306 live=1 pageUrl=http://www.radiocolocolo.cl/um/player.php
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", FMBox
+http://stream.fmbox.cl:9994
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Amanda
+http://amanda.cmtelcom.com/amanda128
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Disney
+rtmp://radiocl.digitalproserver.com:443/disneycl/disneycllive/disneycl.stream
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Sonar
+http://radio.cl.mediastre.am/sonarfm.aac
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Positiva
+http://mimix.mercurio.cl:8000/positivafm
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Rockaxis
+http://radio.cl.mediastre.am/rockaxis.aac?type=.flv
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Galaxia
+http://rv3.denialstream.com:8030/;stream/1.mp3
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Nuevo Mundo
+http://184.107.179.162:9364
